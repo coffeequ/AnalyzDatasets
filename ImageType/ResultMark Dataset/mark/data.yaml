@@ -1,0 +1,9 @@
+Train: Train.txt
+names:
+  0: from
+  1: Sent
+  2: To
+  3: Cc
+  4: Subject
+  5: Body
+path: .
