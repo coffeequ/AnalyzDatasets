@@ -1,3 +1,2 @@
-TableType/*.png
-imageType/ALLImages/*.jpg
-ImageType/ResultMark Dataset/data/images/train/*.jpg
+*.png
+*.jpg

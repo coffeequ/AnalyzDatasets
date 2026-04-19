@@ -1,0 +1,9 @@
+{
+    "path": "path://",
+    "mark": "mark",
+    "datasets":{
+        "url": "https://huggingface.co/datasets/tukey/documents_email",
+        "dateTimeDownload": "12.04.26",
+        "realese": "1.0.0"
+    }   
+}
