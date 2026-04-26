@@ -1,4 +1,4 @@
 classes = 6
-Train = ./Train.txt
-names = ./obj.names
+Train = data/Train.txt
+names = data/obj.names
 backup = backup/
